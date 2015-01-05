@@ -119,8 +119,8 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:000579_0000_0FA710759A721C70"/>
-            <pb facs="tcp:000579_0001_0FA71076448A6A20"/>
+            <pb facs="unknown:000579_0000_0FA710759A721C70"/>
+            <pb facs="unknown:000579_0001_0FA71076448A6A20"/>
             <p>
                <hi>The SHORTER</hi> CATECHISM <hi>Composed by the</hi> REVEREND ASSEMBLY of DIVINES At <hi>WESTMINSTER.</hi>
             </p>
@@ -136,7 +136,7 @@
       </front>
       <body>
          <div type="catechism">
-            <pb n="3" facs="tcp:000579_0001_0FA71076448A6A20"/>
+            <pb n="3" facs="unknown:000579_0001_0FA71076448A6A20"/>
             <head>The SHORTER CATECHISM Agreed upon by the Reverend Assem<g ref="char:EOLhyphen"/>bly of Divines at Westminster.</head>
             <p>Q. <hi>What is the chief end of man?</hi>
             </p>
@@ -194,7 +194,7 @@
                   </gap>
                </note>,</p>
             <p>
-               <pb n="4" facs="tcp:000579_0002_0FA71076EE55DCB8"/>
+               <pb n="4" facs="unknown:000579_0002_0FA71076EE55DCB8"/>
 Q. <hi>Are there more Gods than <gap reason="illegible" resp="#AELD" extent="1 word">
                      <desc>〈◊〉</desc>
                   </gap>?</hi>
@@ -243,7 +243,7 @@ Q. <hi>Are there more Gods than <gap reason="illegible" resp="#AELD" extent="1 w
                </hi>
             </p>
             <p>
-               <pb n="5" facs="tcp:000579_0002_0FA71076EE55DCB8"/>
+               <pb n="5" facs="unknown:000579_0002_0FA71076EE55DCB8"/>
                <hi>A.</hi> God created Man Male &amp; Fe<g ref="char:EOLhyphen"/>male, after His owne Image, in <hi>knowledg Righteousness</hi> &amp; <hi>Holiness;</hi> with dominion <hi>over the</hi> Creatures,</p>
             <p>Q. <hi>What are God's works<note n="t" place="bottom">
                      <hi>Gen.</hi> 1. 2<gap reason="illegible" resp="#AELD" extent="1 letter">
@@ -321,7 +321,7 @@ Q. <hi>Are there more Gods than <gap reason="illegible" resp="#AELD" extent="1 w
                   <desc>••</desc>
                </gap>ansgression <hi>of</hi> the Law</p>
             <p>
-               <pb n="6" facs="tcp:000579_0003_0FA71078C17F6088"/>
+               <pb n="6" facs="unknown:000579_0003_0FA71078C17F6088"/>
 Q. <hi>What was the sin whereby <gap reason="illegible" resp="#AELD" extent="1 word">
                      <desc>〈◊〉</desc>
                   </gap> first Parents fell from the estate wherein they were created.</hi>
@@ -368,7 +368,7 @@ Q. <hi>What was the sin whereby <gap reason="illegible" resp="#AELD" extent="1 w
                </gap>ture, which is commonly <gap reason="illegible" resp="#AELD" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap>
-               <pb n="7" facs="tcp:000579_0003_0FA71078C17F6088"/>
+               <pb n="7" facs="unknown:000579_0003_0FA71078C17F6088"/>
                <gap reason="illegible" resp="#AELD" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap> Original Sin; together with all actual Transgressions which <gap reason="illegible" resp="#AELD" extent="3 letters">
@@ -427,7 +427,7 @@ Q. <hi>What was the sin whereby <gap reason="illegible" resp="#AELD" extent="1 w
                </gap> continues to be God &amp; man in <gap reason="illegible" resp="#AELD" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap> distinct natures, and one
-<pb n="8" facs="tcp:000579_0004_0FA7107974BE9040"/>
+<pb n="8" facs="unknown:000579_0004_0FA7107974BE9040"/>
 Person for ever<note n="o" place="bottom">
                   <hi>Ro.</hi> 9. 5. <hi>Luk.</hi> 1. <gap reason="illegible" resp="#AELD" extent="1 word">
                      <desc>〈◊〉</desc>
@@ -499,7 +499,7 @@ Person for ever<note n="o" place="bottom">
                      </gap>.</hi> 7. 24, 25.</note>
             </p>
             <p>
-               <pb n="9" facs="tcp:000579_0004_0FA7107974BE9040"/>
+               <pb n="9" facs="unknown:000579_0004_0FA7107974BE9040"/>
                <hi>Q. How doth Christ execute the Office of a King?</hi>
             </p>
             <p>
@@ -572,7 +572,7 @@ Person for ever<note n="o" place="bottom">
             </p>
             <p>
                <hi>Q. How are we made partakers
-<pb n="10" facs="tcp:000579_0005_0FA71079F5272D80"/>
+<pb n="10" facs="unknown:000579_0005_0FA71079F5272D80"/>
 of the Redemption purchased by Christ?</hi>
             </p>
             <p>
@@ -649,7 +649,7 @@ of the Redemption purchased by Christ?</hi>
                   </gap>.</note>, <gap reason="illegible" resp="#AELD" extent="1 span">
                   <desc>〈…〉</desc>
                </gap>,
-<pb n="11" facs="tcp:000579_0005_0FA71079F5272D80"/>
+<pb n="11" facs="unknown:000579_0005_0FA71079F5272D80"/>
 and the several benefits which in this life do either accom<g ref="char:EOLhyphen"/>pany or flow from them<note n="l" place="bottom">
                   <hi>1 Cor.</hi> 30. <gap reason="illegible" resp="#AELD" extent="2 letters">
                      <desc>••</desc>
@@ -691,7 +691,7 @@ and the several benefits which in this life do either accom<g ref="char:EOLhyphe
             </p>
             <p>
                <hi>A.</hi> The benefits which in this life do accompany or flow from Justification Adoption, or Sancti<g ref="char:EOLhyphen"/>fication,
-<pb n="12" facs="tcp:000579_0006_0FA7107AB76C1C40"/>
+<pb n="12" facs="unknown:000579_0006_0FA7107AB76C1C40"/>
 are assurance of God<gap reason="illegible" resp="#AELD" extent="1 letter">
                   <desc>•</desc>
                </gap> love, peace of concience<note n="m" place="bottom">Rom 5. 1; 2, 5.</note>, Joy <hi>in the</hi> Holy Ghost<note n="n" place="bottom">
@@ -731,7 +731,7 @@ are assurance of God<gap reason="illegible" resp="#AELD" extent="1 letter">
             </p>
             <p>
                <hi>A</hi> The rule which God at first
-<pb n="13" facs="tcp:000579_0006_0FA7107AB76C1C40"/>
+<pb n="13" facs="unknown:000579_0006_0FA7107AB76C1C40"/>
 revealed to man for his Obedi<g ref="char:EOLhyphen"/>ence, was the moral Law<note n="b" place="bottom">
                   <hi>Ro.</hi> 2. 14. <gap reason="illegible" resp="#AELD" extent="1 word">
                      <desc>〈◊〉</desc>
@@ -763,7 +763,7 @@ revealed to man for his Obedi<g ref="char:EOLhyphen"/>ence, was the moral Law<no
                <hi>A.</hi> The Preface to the ten Com<g ref="char:EOLhyphen"/>mandments, teacheth us that be<g ref="char:EOLhyphen"/>cause God is the Lord, and our God and Redeemer, therefore we are bound to keep all His Com<g ref="char:EOLhyphen"/>mandments<note n="f" place="bottom">
                   <hi>Luk.</hi> 1. 74, 75.</note>.</p>
             <p>
-               <pb n="14" facs="tcp:000579_0007_0FA7107BE0452B60"/>
+               <pb n="14" facs="unknown:000579_0007_0FA7107BE0452B60"/>
                <hi>Q.</hi> W<hi>hich is the first Command<g ref="char:EOLhyphen"/>ment?</hi>
             </p>
             <p>
@@ -797,7 +797,7 @@ revealed to man for his Obedi<g ref="char:EOLhyphen"/>ence, was the moral Law<no
                   <desc>〈◊〉</desc>
                </gap> God.</p>
             <p>
-               <pb n="15" facs="tcp:000579_0007_0FA7107BE0452B60"/>
+               <pb n="15" facs="unknown:000579_0007_0FA7107BE0452B60"/>
                <hi>Q.</hi> W<hi>hich is the second Command<g ref="char:EOLhyphen"/>ment?</hi>
             </p>
             <p>
@@ -826,7 +826,7 @@ revealed to man for his Obedi<g ref="char:EOLhyphen"/>ence, was the moral Law<no
                         <desc>•</desc>
                      </gap>
                   </hi> 4. 15 <hi>to</hi> 20. <hi>Ex.</hi> 32. 5, 8.</note>, or any other
-<pb n="16" facs="tcp:000579_0008_0FA7107E344AA478"/>
+<pb n="16" facs="unknown:000579_0008_0FA7107E344AA478"/>
 way not appointed in his word<note n="s" place="bottom">
                   <hi>Deut.</hi> 
                   <gap reason="illegible" resp="#AELD" extent="1 letter">
@@ -876,7 +876,7 @@ way not appointed in his word<note n="s" place="bottom">
             </p>
             <p>
                <hi>A.</hi> The Reason annexed to
-<pb n="17" facs="tcp:000579_0008_0FA7107E344AA478"/>
+<pb n="17" facs="unknown:000579_0008_0FA7107E344AA478"/>
 the Third Commandment is that however the Breakers of this Commandment may escape pu<g ref="char:EOLhyphen"/>nishment from men, yet the Lord our<gap reason="illegible" resp="#AELD" extent="1 letter">
                   <desc>•</desc>
                </gap> God, will not suffer them to escape <hi>his</hi> righteous judgment<note n="f" place="bottom">1 Sam 2. 12, 17. 22. 29. Deu. 28. 58, 59.</note>.</p>
@@ -901,7 +901,7 @@ the Third Commandment is that however the Breakers of this Commandment may escap
             </p>
             <p>
                <hi>A.</hi> The fourth Commandment requireth the keeping holy to God such set times as He hath appointed in His Word, expres<g ref="char:EOLhyphen"/>ly one whole Day in seven to be
-<pb n="18" facs="tcp:000579_0009_0FA7107E70C8FF98"/>
+<pb n="18" facs="unknown:000579_0009_0FA7107E70C8FF98"/>
 a holy Sabbath to himself<note n="h" place="bottom">
                   <hi>Deut.</hi> 5. 12.</note>.</p>
             <p>
@@ -939,7 +939,7 @@ a holy Sabbath to himself<note n="h" place="bottom">
             </p>
             <p>
                <hi>A</hi> The fourth Commandment forbiddeth the Omission, or care<g ref="char:EOLhyphen"/>less performance of the Duties required, and the prophaning
-<pb n="19" facs="tcp:000579_0009_0FA7107E70C8FF98"/>
+<pb n="19" facs="unknown:000579_0009_0FA7107E70C8FF98"/>
 the Day by Idleness<note n="p" place="bottom">
                   <hi>Acts.</hi> 20. 7, 9.</note>, or doing that which is in it self sinful<note n="q" place="bottom">
                   <hi>Ezek.</hi> 23 38.</note>, <gap reason="illegible" resp="#AELD" extent="1 word">
@@ -990,7 +990,7 @@ the Day by Idleness<note n="p" place="bottom">
                <note n="u" place="margin">
                   <hi>Rom.</hi> 12. 50.</note>,</p>
             <p>
-               <pb n="20" facs="tcp:000579_0010_0FA71080F14910C0"/>
+               <pb n="20" facs="unknown:000579_0010_0FA71080F14910C0"/>
 Q. <hi>What is forbidden in the fifth Commandment?</hi>
             </p>
             <p>
@@ -1024,7 +1024,7 @@ Q. <hi>What is forbidden in the fifth Commandment?</hi>
             </p>
             <p>
                <hi>A.</hi> The sixth Commandment forbiddeth the Taking away of
-<pb n="21" facs="tcp:000579_0010_0FA71080F14910C0"/>
+<pb n="21" facs="unknown:000579_0010_0FA71080F14910C0"/>
 our own life<note n="y" place="bottom">
                   <hi>Acts</hi> 16. 28.</note>, or the Life of our Neighbour unjustly<note n="z" place="bottom">
                   <hi>Gen.</hi> 9. 6.</note>, and whatsoever tendeth thereunto<note n="a" place="bottom">
@@ -1078,7 +1078,7 @@ our own life<note n="y" place="bottom">
                      <desc>••</desc>
                   </gap>.</note>.</p>
             <p>
-               <pb n="22" facs="tcp:000579_0011_0FA71082A3F5AC58"/>
+               <pb n="22" facs="unknown:000579_0011_0FA71082A3F5AC58"/>
                <hi>Q. What is forbidden in the eighth Commandment?</hi>
                <note n="*" place="margin">
                   <hi>
@@ -1123,7 +1123,7 @@ our own life<note n="y" place="bottom">
             </p>
             <p>
                <hi>A.</hi> The tenth Commandment
-<pb n="23" facs="tcp:000579_0011_0FA71082A3F5AC58"/>
+<pb n="23" facs="unknown:000579_0011_0FA71082A3F5AC58"/>
 is, <hi>Thou shalt not covet thy neigh<g ref="char:EOLhyphen"/>bours house, thou shalt not covet thy neighbours wife, nor his man-ser<g ref="char:EOLhyphen"/>vant, nor his maid-servant, nor his <gap reason="illegible" resp="#AELD" extent="1 word">
                      <desc>〈◊〉</desc>
                   </gap>, nor his ass, nor any thing that thy Neighbours.</hi>
@@ -1169,7 +1169,7 @@ is, <hi>Thou shalt not covet thy neigh<g ref="char:EOLhyphen"/>bours house, thou
                   <hi>James</hi> 3. 8.</note> &amp; Deed<note n="e" place="bottom">
                   <hi>v.</hi> 2. <hi>Joh.</hi> 19. 11. Gal. 3. Mat. 25. 41.</note>,</p>
             <p>
-               <pb n="24" facs="tcp:000579_0012_0FA710840A980558"/>
+               <pb n="24" facs="unknown:000579_0012_0FA710840A980558"/>
 Q. <hi>Are all</hi> T<hi>ransgressions of the Law equally heinous?</hi>
             </p>
             <p>A. Some sins in themselves, &amp; by reason of several aggravati<g ref="char:EOLhyphen"/>ons are more heinous in the sight of God than others.</p>
@@ -1196,7 +1196,7 @@ Q. <hi>Are all</hi> T<hi>ransgressions of the Law equally heinous?</hi>
                   </gap> unto Life?</hi>
             </p>
             <p>A. Repentance unto Life is a
-<pb n="25" facs="tcp:000579_0012_0FA710840A980558"/>
+<pb n="25" facs="unknown:000579_0012_0FA710840A980558"/>
 saving Grace<note n="m" place="bottom">
                   <hi>Act.</hi> 11. 18.</note>, whereby a sinner <gap reason="illegible" resp="#AELD" extent="2 words">
                   <desc>〈◊◊〉</desc>
@@ -1246,7 +1246,7 @@ saving Grace<note n="m" place="bottom">
                      <desc>•</desc>
                   </gap>.</note>.</p>
             <p>Q <hi>How is the word to be read &amp;
-<pb n="26" facs="tcp:000579_0013_0FA710846DCC0790"/>
+<pb n="26" facs="unknown:000579_0013_0FA710846DCC0790"/>
 heard that it may become effectual to Salvation?</hi>
             </p>
             <p>
@@ -1288,7 +1288,7 @@ heard that it may become effectual to Salvation?</hi>
                <hi>A.</hi> The Sacraments of the New<g ref="char:EOLhyphen"/>Testament are Baptism<note n="g" place="bottom">Mark <gap reason="illegible" resp="#AELD" extent="1 letter">
                      <desc>•</desc>
                   </gap>6. 16.</note>, &amp; the
-<pb n="27" facs="tcp:000579_0013_0FA710846DCC0790"/>
+<pb n="27" facs="unknown:000579_0013_0FA710846DCC0790"/>
 Lords Supper<note n="h" place="bottom">1 Cor. 11. 23.</note>.</p>
             <p>Q. <hi>What is Baptism?</hi>
             </p>
@@ -1312,7 +1312,7 @@ Lords Supper<note n="h" place="bottom">1 Cor. 11. 23.</note>.</p>
             </p>
             <p>
                <hi>A.</hi> The Lords Supper is a Sa<g ref="char:EOLhyphen"/>crament wherein by giving and receiving Bread and Wine accor<g ref="char:EOLhyphen"/>ding to Christ's Appointment, His Death is shewed forth<note n="o" place="bottom">Luke 22. 19. 20.</note> and the worthy Receivers are not af<g ref="char:EOLhyphen"/>ter a corporal and a carnal man<g ref="char:EOLhyphen"/>ner, but by <hi>Faith</hi> made partakers of His Body and Blood, with all
-<pb n="28" facs="tcp:000579_0014_0FA710854339AB18"/>
+<pb n="28" facs="unknown:000579_0014_0FA710854339AB18"/>
 His benefits, to their spiritual Norishment &amp; Growth in Grace<note n="p" place="bottom">1 <hi>Cor.</hi> 10. 16.</note>.</p>
             <p>
                <hi>Q. What is required in the wor<g ref="char:EOLhyphen"/>thy Receiving of the Lords Supper?</hi>
@@ -1371,7 +1371,7 @@ His benefits, to their spiritual Norishment &amp; Growth in Grace<note n="p" pla
                   </gap>. 13.</note>, commonly called the Lord's Prayer.</p>
             <p>
                <hi>Q. What doth the Preface of the
-<pb n="29" facs="tcp:000579_0014_0FA710854339AB18"/>
+<pb n="29" facs="unknown:000579_0014_0FA710854339AB18"/>
 Lord's Prayer teach us?</hi>
             </p>
             <p>A. The Preface of the Lord's prayer which is, <hi>Our Father which <gap reason="illegible" resp="#AELD" extent="1 word">
@@ -1415,7 +1415,7 @@ Lord's Prayer teach us?</hi>
                      <desc>•</desc>
                   </gap>. 10. 1.</note>, &amp; that the Kingdom of Glory may be hast<g ref="char:EOLhyphen"/>ned<note n="o" place="bottom">Rev. 22. 20.</note>.</p>
             <p>
-               <pb n="30" facs="tcp:000579_0015_0FA71085F1478A20"/>
+               <pb n="30" facs="unknown:000579_0015_0FA71085F1478A20"/>
                <hi>Q. What do we pray for in <gap reason="illegible" resp="#AELD" extent="1 word">
                      <desc>〈◊〉</desc>
                   </gap> third petition?</hi>
@@ -1456,7 +1456,7 @@ Lord's Prayer teach us?</hi>
                   </gap>at. 6. 14.</note>
             </p>
             <p>
-               <pb n="31" facs="tcp:000579_0015_0FA71085F1478A20"/>
+               <pb n="31" facs="unknown:000579_0015_0FA71085F1478A20"/>
 In the sixth petition, which <hi>And lead us not into temptati<g ref="char:EOLhyphen"/>on but deliver us from evil,</hi> We <gap reason="illegible" resp="#AELD" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap> that God would either keep <gap reason="illegible" resp="#AELD" extent="1 word">
@@ -1498,7 +1498,7 @@ In the sixth petition, which <hi>And lead us not into temptati<g ref="char:EOLhy
       </body>
       <back>
          <div type="poem">
-            <pb facs="tcp:000579_0016_0FA71086BAA30C20"/>
+            <pb facs="unknown:000579_0016_0FA71086BAA30C20"/>
             <head>A Short Body of DIVINITY.</head>
             <l>THe Scriptures of Divine Authority</l>
             <l>
@@ -1552,7 +1552,7 @@ In the sixth petition, which <hi>And lead us not into temptati<g ref="char:EOLhy
             </l>
             <l>He's God &amp; man, the only Mediator</l>
             <l>
-               <pb facs="tcp:000579_0017_0FA71087853F6240"/>
+               <pb facs="unknown:000579_0017_0FA71087853F6240"/>
                <hi>Between the Sons of Men, &amp; their Creator.</hi>
             </l>
             <l>He gave himself for our Eternal good.</l>
@@ -1627,7 +1627,7 @@ In the sixth petition, which <hi>And lead us not into temptati<g ref="char:EOLhy
                   </gap>ath with speed &amp; diligence.</hi>
             </l>
             <l>
-               <pb facs="tcp:000579_0017_0FA71087853F6240"/>
+               <pb facs="unknown:000579_0017_0FA71087853F6240"/>
 Blest are the dead that in the Lord do dy<gap reason="illegible" resp="#AELD" extent="1 letter">
                   <desc>•</desc>
                </gap>.</l>
